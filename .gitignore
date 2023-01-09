@@ -7,7 +7,7 @@ node_modules
 *~
 *.swp
 
-
+Data/
 
 env.sh
 # Byte-compiled / optimized / DLL files
